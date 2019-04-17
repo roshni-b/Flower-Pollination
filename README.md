@@ -10,4 +10,5 @@ This algorithm has 4 rules or assumptions:
 ## Pseudo-code 
 ![alt text](https://github.com/roshni-b/Flower-Pollination/blob/master/pseudocode_fpa.png "psudo-code")
 
+### Citation
 > Xin-She Yang, Flower pollination algorithm for global optimization, in: Unconventional Computation and Natural Computation 2012, Lecture Notes in Computer Science, Vol. 7445, pp. 240-249 (2012).
