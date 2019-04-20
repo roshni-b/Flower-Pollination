@@ -1,5 +1,5 @@
 # Flower Pollination Algorithm Implementation
-Flower pollination algorithm is a metaheuristic algorithm that was developed by [https://en.wikipedia.org/wiki/Xin-She_Yang] (Xin-She Yang), based on the pollination process of flowering plants.
+Flower pollination algorithm is a metaheuristic algorithm that was developed by [Xin-She Yang](https://en.wikipedia.org/wiki/Xin-She_Yang), based on the pollination process of flowering plants.
 
 ## Usage:
 
