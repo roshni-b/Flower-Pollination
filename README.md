@@ -9,8 +9,7 @@ git clone https://github.com/roshni-b/Flower-Pollination.git
 cd Flower-Pollination
 ```
 
-##### 2. Running the script
-Run script in MATLAB
+##### 2. Running the [script](https://github.com/roshni-b/Flower-Pollination/blob/master/fpa_demo.m) in MATLAB
 ```
 fpa_demo.m
 ```
